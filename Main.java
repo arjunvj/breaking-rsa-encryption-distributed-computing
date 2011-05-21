@@ -3,6 +3,7 @@ import java.math.BigInteger;
 public class Main
 {
 	private Main(){}
+	
 	BigInteger n=new BigInteger("721498723487");
 	BigInteger e=new BigInteger("71");
 	BigInteger encryptedNumber=new BigInteger("2790");
