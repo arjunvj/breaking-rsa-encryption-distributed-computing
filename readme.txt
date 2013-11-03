@@ -1,4 +1,4 @@
-This program tries to calculate p & q using distributed computing which determines phi and then decrypts the encrypted number in usual way.
+This program tries to calculate prime numbers p & q using distributed computing which determines phi and then decrypts the encrypted number by brute-force way.
 
 To run:
 
